@@ -18,6 +18,7 @@ on:
         options:
           - unifreq
           - codesnas
+          - ljjlinjunjie
       kernel_version:
         description: "Select kernel version"
         required: false
@@ -84,6 +85,7 @@ on:
           - -autumn-harvesting
           - -winter-storing
           - -yourname
+          - -ljj
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
